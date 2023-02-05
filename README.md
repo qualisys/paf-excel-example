@@ -9,10 +9,12 @@ To download this example project to your computer, you can either:
 
 ##  Preparing Qualisys data for Excel processing
 
-1. In QTM, in Project Options > Processing > TSV Export: activate "Include TSV Header", "Export time data for every frame", "Write column header" 
+1. In QTM, in Project Options > Processing > TSV Export: 
+    - In Data type, activate 3D
+    - In Genral Settings, activate "Include TSV Header", "Export time data for every frame", "Write column header" 
 2. Set Project Options > Miscellaneous > Folder Options for "VB Script" to C:\Windows\System32\wscript.exe (adapt if wscript is located elsewhere on your computer).
-
-Example tested with Office 2016.
+3. In the PAF pane, click on Start Processing. An excel document automatically opens including a sheet with a graph and multiple sheets with marker data  
+Note: If you do not see any curve in the graph, it can be related to the default separator set in Excel. In this case '.' should be used as the separator for numbers. You can set it in Excel->Option->Advanced->Use system separators
 
 ## Resources for using the Qualisys Project Automation Framework (PAF)
 
