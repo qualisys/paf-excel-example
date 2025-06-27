@@ -1,5 +1,9 @@
 # Changelog
 
+
+## [1.0.3]
+Tested with QTM 2025.1.15267
+
 ## [1.0.3]
 Tested with QTM 2024.3.14360
 
