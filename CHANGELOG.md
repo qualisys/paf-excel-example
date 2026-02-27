@@ -1,7 +1,9 @@
 # Changelog
 
+## [1.0.5]
+Tested with QTM 2026.1 (build 16751)
 
-## [1.0.3]
+## [1.0.4]
 Tested with QTM 2025.1.15267
 
 ## [1.0.3]
